@@ -2,7 +2,7 @@
   {
     "id": "maquina1",
     "nombre": "CIE",
-    "qr":
+    "qr":" qr_maquina1.png",
     "mantenimientos": [
       {
         "fecha": "2025-03-08",

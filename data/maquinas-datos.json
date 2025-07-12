@@ -297,8 +297,8 @@
     ]
   },
   {
-    "id": "maquina1",
-    "nombre": "CIE",
+    "id": "maquina3",
+    "nombre": "STAUFER",
     "qr": "qr_maquina1.png",
     "mantenimientos": [
       {
